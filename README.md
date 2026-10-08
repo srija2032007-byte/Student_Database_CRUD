@@ -112,5 +112,12 @@ Student_Database_CRUD/
 ├── README.md
 ├── .gitignore
 │
+├── screenshots/
+│   ├── dashboard.png
+│   ├── add-student.png
+│   ├── student-records.png
+│   ├── swagger-api.png
+│   └── crud-testing.png
+│
 └── templates/
     └── index.html
