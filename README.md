@@ -121,3 +121,25 @@ Student_Database_CRUD/
 │
 └── templates/
     └── index.html
+    
+    ## Screenshots
+
+### Dashboard
+
+![Student Database Dashboard](./screenshots/dashboard.png)
+
+### Student Registration
+
+![Student Registration Form](./screenshots/add-student.png)
+
+### Student Records
+
+![Student Records](./screenshots/student-records.png)
+
+### Swagger API Documentation
+
+![Swagger API Documentation](./screenshots/swagger-api.png)
+
+### CRUD Testing
+
+![CRUD API Testing](./screenshots/crud-testing.png)
