@@ -122,7 +122,8 @@ Student_Database_CRUD/
 └── templates/
     └── index.html
     
-    ## Screenshots
+    
+## Screenshots
 
 ### Dashboard
 
